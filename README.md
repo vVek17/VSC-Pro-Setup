@@ -1,0 +1,4 @@
+``` json
+  // "editor.fontWeight": "bold",
+
+```
