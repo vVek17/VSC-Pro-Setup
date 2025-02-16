@@ -28,7 +28,6 @@
   "terminal.integrated.env.windows": {},
   "git.autofetch": true,
   "workbench.statusBar.visible": false, //bottom bar
-  "window.menuBarVisibility": "compact",
   "workbench.layoutControl.enabled": false, //top bar
   "window.commandCenter": false, //top second bar
   "window.zoomLevel": 2,
